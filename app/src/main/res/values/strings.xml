@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cipher</string>
+    <string name="set_password_elements">Set password elements</string>
+    <string name="digits">Digits</string>
+    <string name="special_chars">Special chars</string>
+    <string name="small_letters">Small letters</string>
+    <string name="capital_letters">Capital letters</string>
+</resources>
